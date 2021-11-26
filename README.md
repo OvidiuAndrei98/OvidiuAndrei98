@@ -2,6 +2,12 @@
 
 I'm a junior Full Stack Developer, I've started my coding journey at Codecool in September 2020 and after a year of hard work I'm ready to face the world!
 
+Skill set:
+![image](https://user-images.githubusercontent.com/72840832/143553686-88077f15-55f5-4272-9924-6103b3499a5e.png)
+![image](https://user-images.githubusercontent.com/72840832/143553710-2b010628-9c0f-4f61-8e49-3db12838091a.png)
+
+
+
 <!--
 **OvidiuAndrei98/OvidiuAndrei98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
