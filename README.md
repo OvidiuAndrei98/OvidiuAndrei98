@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Andrei
+
+I'm a junior Full Stack Developer, I've started my coding journey at Codecool in September 2020 and after a year of hard work I'm ready to face the world!
 
 <!--
 **OvidiuAndrei98/OvidiuAndrei98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
